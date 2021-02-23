@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3a90be;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <g id="hover-center">
+  <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <path d="m36.455 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <path d="m40.49 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#fff" stroke-width="1.7066"/>
+ </g>
+ <g id="pressed-center">
+  <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewFocus" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <path d="m62.455 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <path d="m66.49 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#fff" stroke-width="1.7066"/>
+ </g>
+ <g id="active-center">
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path d="m10.455 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <circle cx="12.988" cy="11.828" r="1.5" fill="#fff" stroke-width="1.7066"/>
+ </g>
+ <g id="inactive-center">
+  <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path d="m88.498 3.586c0.14595-1.4626 2.039-2.1957 3.4596-1.5547 0.72021 0.32501 1.6974 1.2937 1.5183 2.9817-0.14799 1.3944-2.5136 2.9675-2.5314 4.8844" fill="none" stroke="#bdc3c7" stroke-width="2.25"/>
+  <circle cx="91.038" cy="11.831" r="1.5" fill="#bdc3c7" stroke-width="1.7066"/>
+ </g>
+ <g id="hover-inactive-center">
+  <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <path d="m114.46 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <path d="m118.5 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#fff" stroke-width="1.7066"/>
+ </g>
+ <g id="pressed-inactive-center">
+  <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewFocus" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <path d="m140.46 3.5864c0.14845-1.46 2.0739-2.1918 3.5187-1.5519 0.73254 0.32443 1.7264 1.2914 1.5443 2.9764-0.15051 1.3918-2.5566 2.9622-2.5746 4.8756" fill="none" stroke="#fff" stroke-width="2.25"/>
+  <path d="m144.5 11.828a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5z" fill="#fff" stroke-width="1.7066"/>
+ </g>
+</svg>

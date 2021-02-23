@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3a90be;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <g id="active-center">
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <rect x="7.8485" y="1.8481" width="10.303" height="10.303" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+ <g id="hover-center">
+  <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <rect x="33.848" y="1.8481" width="10.303" height="10.303" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+ <g id="inactive-center">
+  <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <rect x="85.849" y="1.8481" width="10.303" height="10.303" fill="none" stroke="#a1a9b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+ <g id="pressed-center">
+  <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewFocus" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <rect x="59.848" y="1.8481" width="10.303" height="10.303" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+ <g id="hover-inactive-center">
+  <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m126 6.9996c0 3.2153-1.7153 6.1863-4.4998 7.7939s-6.2151 1.6076-8.9996 0-4.4998-4.5787-4.4998-7.7939c0-3.2153 1.7154-6.1863 4.4998-7.7939 2.7845-1.6077 6.2151-1.6077 8.9996 0 2.7845 1.6076 4.4998 4.5786 4.4998 7.7939z" fill="currentColor" stroke-width="1.3"/>
+  <rect x="111.85" y="1.8481" width="10.303" height="10.303" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+ <g id="pressed-inactive-center">
+  <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewFocus" d="m152 6.9996c0 3.2153-1.7153 6.1863-4.4998 7.7939s-6.2151 1.6076-8.9996 0-4.4998-4.5787-4.4998-7.7939c0-3.2153 1.7154-6.1863 4.4998-7.7939 2.7845-1.6077 6.2151-1.6077 8.9996 0 2.7845 1.6076 4.4998 4.5786 4.4998 7.7939z" fill="currentColor" fill-opacity=".75" stroke-width="1.3"/>
+  <rect x="137.85" y="1.8481" width="10.303" height="10.303" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
+</svg>

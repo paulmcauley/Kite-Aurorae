@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Kite
+Comment=Kite is a fork of the Classik theme, except with an Oxygen/Breeze-style diamond/kite-shaped restore button which fits in with the Breeze Application Style. A kite floats in the breeze and also makes your windows float!
+X-KDE-PluginInfo-Name=Kite
+X-KDE-PluginInfo-Author=Paul McAuley
+X-KDE-PluginInfo-Email=kde@paulmcauley.com
+X-KDE-PluginInfo-Category=Aurorae Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-Version=1.5
+X-KDE-PluginInfo-License=LGPL V2
+X-KDE-PluginInfo-EnabledByDefault=true

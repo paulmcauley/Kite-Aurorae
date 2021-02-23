@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="20" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#7f7f7f;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3a90be;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }</style>
+ </defs>
+ <g id="hover-center">
+  <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <g fill="none" stroke="#232629" stroke-width="1.1">
+   <path d="m45.031 12.751h-11.108"/>
+   <path d="m45.007 7.943h-5.4886"/>
+   <path d="m45.055 3.4201h-5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m34.362 0.18996v9.8017" stroke-width="1.0928"/>
+    <path d="m36.964 7.2705-2.6017 2.7205" stroke-linecap="round"/>
+    <path d="m34.362 9.9917-2.6017-2.7205" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+ <g id="active-center" stroke="#232629">
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <g fill="none" stroke-width="1.1">
+   <path d="m19 12.751h-11.108"/>
+   <path d="m18.949 7.9411h-5.4886"/>
+   <path d="m19.055 3.4201h-5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m8.3626 0.29056v9.8014" stroke-width="1.0928"/>
+    <path d="m10.964 7.3711-2.6017 2.7205" stroke-linecap="round"/>
+    <path d="m8.3626 10.092-2.6017-2.7205" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+ <g id="inactive-center">
+  <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <g fill="none" stroke="#bdc3c7" stroke-width="1.1">
+   <path d="m97.146 12.751h-11.108"/>
+   <path d="m97.122 7.9411h-5.4886"/>
+   <path d="m97.17 3.4201h-5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m86.477 0.29056v9.8014" stroke-width="1.0928"/>
+    <path d="m89.079 7.3711-2.6017 2.7205" stroke-linecap="round"/>
+    <path d="m86.477 10.092-2.6017-2.7205" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+ <g id="pressed-center">
+  <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <g fill="none" stroke="#232629" stroke-width="1.1">
+   <path d="m70.96 12.751h-11.108"/>
+   <path d="m70.936 7.9411h-5.4886"/>
+   <path d="m70.984 3.4201h-5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m60.291 0.29056v9.8014" stroke-width="1.0928"/>
+    <path d="m62.893 7.3711-2.6017 2.7205" stroke-linecap="round"/>
+    <path d="m60.291 10.092-2.6017-2.7205" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+ <g id="hover-inactive-center">
+  <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
+  <g fill="none" stroke="#232629" stroke-width="1.1">
+   <path d="m122.99 12.751h-11.108"/>
+   <path d="m122.96 7.9411h-5.4886"/>
+   <path d="m123.01 3.4201h-5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m112.32 0.2903v9.8017" stroke-width="1.0928"/>
+    <path d="m114.92 7.3711-2.6017 2.7205" stroke-linecap="round"/>
+    <path d="m112.32 10.092-2.6017-2.7205" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+ <g id="pressed-inactive-center">
+  <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <path class="ColorScheme-ViewHover" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
+  <g fill="none" stroke="#232629" stroke-width="1.1">
+   <path d="m148.8 12.751h-11.108"/>
+   <path d="m148.77 7.9411h-5.4886"/>
+   <path d="m148.82 3.4201h-5.5836"/>
+   <g stroke-linejoin="round">
+    <path d="m138.13 0.29056v9.8014" stroke-width="1.0928"/>
+    <path d="m140.73 7.3711-2.6017 2.7205" stroke-linecap="round"/>
+    <path d="m138.13 10.092-2.6017-2.7205" stroke-linecap="round"/>
+   </g>
+  </g>
+ </g>
+</svg>
