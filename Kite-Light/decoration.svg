@@ -5,7 +5,7 @@
         color:#000000;
       }
       .ColorScheme-Background{
-        color:#e3e5e7;
+        color:#dee0e2;
       }
       .ColorScheme-ViewText {
         color:#000000;
@@ -68,40 +68,40 @@
  </defs>
  <g id="decoration-right">
   <rect x="220" y="432.36" width="20" height="100" fill="url(#linearGradient4614)"/>
-  <rect class="ColorScheme-Background" x="220" y="432.36" width="3" height="100" fill="#e3e5e7"/>
+  <rect class="ColorScheme-Background" x="220" y="432.36" width="3" height="100" fill="#dee0e2"/>
   <path class="ColorScheme-Text" d="m223 432.36h-0.74991v99.994h0.74991v0c-7e-5 -33.331 2.3e-4 -66.663 0-99.994z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-bottom">
   <rect transform="rotate(90)" x="532.36" y="-220" width="20" height="100" fill="url(#linearGradient4616)"/>
-  <rect class="ColorScheme-Background" transform="rotate(90)" x="532.36" y="-220" width="3" height="100" fill="#e3e5e7"/>
+  <rect class="ColorScheme-Background" transform="rotate(90)" x="532.36" y="-220" width="3" height="100" fill="#dee0e2"/>
   <path class="ColorScheme-Text" d="m120 535.36v-0.74991h99.994v0.74991c-0.10766 0 0.036 0 0 0-33.331-7e-5 -66.663 2.3e-4 -99.994 0z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-bottomright">
-  <path class="ColorScheme-Background" d="m223 532.36c0 1.6569-1.3431 3-3 3v-3z" fill="#e3e5e7"/>
+  <path class="ColorScheme-Background" d="m223 532.36c0 1.6569-1.3431 3-3 3v-3z" fill="#dee0e2"/>
   <path d="m220 552.36c11.046 0 20-8.9544 20-20h-20z" fill="url(#radialGradient3948)"/>
   <path class="ColorScheme-Text" d="m220 535.36c1.637-0.0504 2.9496-1.363 3-3h-0.75c0 1.1719-1.0078 2.25-2.25 2.25z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-left">
   <rect transform="scale(-1)" x="-120" y="-532.36" width="20" height="100" fill="url(#linearGradient4624)"/>
-  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-120" y="432.36" width="3" height="100" fill="#e3e5e7"/>
+  <rect class="ColorScheme-Background" transform="scale(-1,1)" x="-120" y="432.36" width="3" height="100" fill="#dee0e2"/>
   <path class="ColorScheme-Text" d="m117.75 432.36h-0.74991v99.994h0.74991v0c-7e-5 -33.331 2.3e-4 -66.663 0-99.994z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-bottomleft">
   <path d="m120 552.36c-11.046 0-20-8.9544-20-20h20z" fill="url(#radialGradient4628)"/>
-  <path class="ColorScheme-Background" d="m117 532.36c0 1.6569 1.3431 3 3 3v-3z" fill="#e3e5e7"/>
+  <path class="ColorScheme-Background" d="m117 532.36c0 1.6569 1.3431 3 3 3v-3z" fill="#dee0e2"/>
   <path class="ColorScheme-Text" d="m120 535.36c-1.637-0.0504-2.9496-1.363-3-3h0.75c0 1.1719 1.0078 2.25 2.25 2.25z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-top">
-  <rect transform="scale(-1)" x="-220" y="-412.36" width="100" height="20" color="#e3e5e7" fill="url(#linearGradient4634)"/>
-  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-432.36" y="-220" width="23" height="100" fill="#e3e5e7"/>
+  <rect transform="scale(-1)" x="-220" y="-412.36" width="100" height="20" color="#dee0e2" fill="url(#linearGradient4634)"/>
+  <rect class="ColorScheme-Background" transform="matrix(0,-1,-1,0,0,0)" x="-432.36" y="-220" width="23" height="100" fill="#dee0e2"/>
   <path class="ColorScheme-Text" d="m120 409.36v0.74991h99.994v-0.74991c-0.10766 0 0.036 0 0 0-33.331 7e-5 -66.663-2.3e-4 -99.994 0z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-topleft">
   <g>
    <rect transform="scale(-1)" x="-120" y="-432.36" width="20" height="20" fill="url(#linearGradient4638)"/>
    <path d="m120 392.36c-11.046 0-20 8.9544-20 20h20z" fill="url(#radialGradient4640)"/>
-   <path class="ColorScheme-Background" d="m120 409.36c-1.6569 0-3 1.3432-3 3h3z" fill="#e3e5e7"/>
-   <rect class="ColorScheme-Background" transform="scale(1,-1)" x="117" y="-432.36" width="3" height="20" fill="#e3e5e7"/>
+   <path class="ColorScheme-Background" d="m120 409.36c-1.6569 0-3 1.3432-3 3h3z" fill="#dee0e2"/>
+   <rect class="ColorScheme-Background" transform="scale(1,-1)" x="117" y="-432.36" width="3" height="20" fill="#dee0e2"/>
   </g>
   <path class="ColorScheme-Text" d="m120 409.36c-1.637 0.0504-2.9496 1.363-3 3h0.75c0-1.1719 1.0078-2.25 2.25-2.25z" fill="currentColor" fill-opacity=".25098"/>
   <path class="ColorScheme-Text" d="m117.75 412.36h-0.74991v19.999h0.74991v0c-7e-5 -6.6662 2.3e-4 -13.332 0-19.999z" fill="currentColor" fill-opacity=".25098"/>
@@ -110,14 +110,14 @@
   <g>
    <rect transform="scale(1,-1)" x="220" y="-432.36" width="20" height="20" fill="url(#linearGradient4514)"/>
    <path d="m220 392.36c11.046 0 20 8.9544 20 20h-20z" fill="url(#radialGradient4538)"/>
-   <path class="ColorScheme-Background" d="m220 409.36c1.6569 0 3 1.3432 3 3h-3z" fill="#e3e5e7"/>
-   <rect class="ColorScheme-Background" transform="scale(-1)" x="-223" y="-432.36" width="3" height="20" fill="#e3e5e7"/>
+   <path class="ColorScheme-Background" d="m220 409.36c1.6569 0 3 1.3432 3 3h-3z" fill="#dee0e2"/>
+   <rect class="ColorScheme-Background" transform="scale(-1)" x="-223" y="-432.36" width="3" height="20" fill="#dee0e2"/>
   </g>
   <path class="ColorScheme-Text" d="m220 409.36c1.637 0.0504 2.9496 1.363 3 3h-0.75c0-1.1719-1.0078-2.25-2.25-2.25z" fill="currentColor" fill-opacity=".25098"/>
   <path class="ColorScheme-Text" d="m223 412.36h-0.74991v19.999h0.74991v0c-7e-5 -6.6662 2.3e-4 -13.332 0-19.999z" fill="currentColor" fill-opacity=".25098"/>
  </g>
  <g id="decoration-center">
-  <rect class="ColorScheme-Background" x="120" y="432.36" width="100" height="100" fill="#e3e5e7"/>
+  <rect class="ColorScheme-Background" x="120" y="432.36" width="100" height="100" fill="#dee0e2"/>
  </g>
  <rect id="hint-tile-center" x="300" y="332.36" width="20" height="20" fill="#d1d4dc"/>
  <rect id="hint-stretch-borders" x="340" y="332.36" width="20" height="20" fill="#d1d4dc"/>
