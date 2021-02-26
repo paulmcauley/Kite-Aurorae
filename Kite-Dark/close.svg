@@ -17,7 +17,7 @@
  </g>
  <g id="inactive-center">
   <rect x="78" y="-6.0006" width="26" height="26" opacity="0" stroke-width=".85294"/>
-  <g fill="none" stroke="#bdc3c7" stroke-linecap="round" stroke-width="2">
+  <g fill="none" stroke="#a1a9b1" stroke-linecap="round" stroke-width="2">
    <path d="m85.828 1.8726 10.345 10.298"/>
    <path d="m96.166 1.8283-10.339 10.34"/>
   </g>

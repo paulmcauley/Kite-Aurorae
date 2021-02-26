@@ -35,29 +35,29 @@
  <g id="hover-center">
   <rect x="26" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewHover" d="m48 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
-  <rect transform="rotate(45)" x="28.937" y="-26.218" width="7.1791" height="7.1791" ry=".087374" fill="none" stroke="#fff" stroke-width="2"/>
+  <rect transform="rotate(45)" x="28.937" y="-26.218" width="7.1791" height="7.1791" rx=".087" ry=".087" fill="none" stroke="#fff" stroke-width="2"/>
  </g>
  <g id="pressed-center">
   <rect x="52" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewFocus" d="m74 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <rect transform="rotate(45)" x="47.322" y="-44.602" width="7.1791" height="7.1791" ry=".087374" fill="none" stroke="#fff" stroke-width="2"/>
+  <rect transform="rotate(45)" x="47.322" y="-44.602" width="7.1791" height="7.1791" rx=".087" ry=".087" fill="none" stroke="#fff" stroke-width="2"/>
  </g>
  <g id="active-center">
-  <rect x="-.744" y="-6.7444" width="27.488" height="27.488" opacity="0" stroke-width="1.3744"/>
-  <rect transform="rotate(45)" x="10.347" y="-8.0379" width="7.5899" height="7.5899" ry=".092375" fill="none" stroke="#fff" stroke-width="2"/>
+  <rect x="-3.9673e-7" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
+  <rect transform="rotate(45)" x="10.552" y="-7.8325" width="7.1791" height="7.1791" rx=".087" ry=".087" fill="none" stroke="#fff" stroke-width="2"/>
  </g>
  <g id="inactive-center">
   <rect x="78" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
-  <rect transform="rotate(45)" x="65.707" y="-62.987" width="7.1791" height="7.1791" ry=".087374" fill="none" stroke="#a1a9b1" stroke-width="2"/>
+  <rect transform="rotate(45)" x="65.707" y="-62.987" width="7.1791" height="7.1791" rx=".087" ry=".087" fill="none" stroke="#a1a9b1" stroke-width="2"/>
  </g>
  <g id="hover-inactive-center">
   <rect x="104" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewHover" d="m126 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" stroke-width="1.4999"/>
-  <rect transform="rotate(45)" x="84.092" y="-81.372" width="7.1791" height="7.1791" ry=".087374" fill="none" stroke="#fff" stroke-width="2"/>
+  <rect transform="rotate(45)" x="84.092" y="-81.372" width="7.1791" height="7.1791" rx=".087" ry=".087" fill="none" stroke="#fff" stroke-width="2"/>
  </g>
  <g id="pressed-inactive-center">
   <rect x="130" y="-6.0004" width="26" height="26" opacity="0" stroke-width="1.3"/>
   <path class="ColorScheme-ViewFocus" d="m152 6.9996a8.9996 8.9996 0 1 1-17.999 0 8.9996 8.9996 0 1 1 17.999 0z" fill="currentColor" fill-opacity=".75" stroke-width="1.4999"/>
-  <rect transform="rotate(45)" x="102.48" y="-99.757" width="7.1791" height="7.1791" ry=".087374" fill="none" stroke="#fff" stroke-width="2"/>
+  <rect transform="rotate(45)" x="102.48" y="-99.757" width="7.1791" height="7.1791" rx=".087" ry=".087" fill="none" stroke="#fff" stroke-width="2"/>
  </g>
 </svg>
