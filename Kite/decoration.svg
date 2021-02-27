@@ -34,15 +34,17 @@
   <linearGradient id="linearGradient3918">
    <stop stop-opacity="0" offset="0"/>
    <stop stop-opacity="0" offset=".14"/>
-   <stop stop-opacity=".12549" offset=".14"/>
-   <stop stop-opacity=".062745" offset=".5"/>
+   <stop stop-opacity=".33" offset=".14"/>
+   <stop stop-opacity=".125" offset=".5"/>
+   <stop stop-opacity=".04" offset=".75"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient7308">
    <stop stop-opacity="0" offset="0"/>
    <stop stop-opacity="0" offset=".15"/>
-   <stop stop-opacity=".12549" offset=".15"/>
-   <stop stop-opacity=".062745" offset=".5"/>
+   <stop stop-opacity=".33" offset=".15"/>
+   <stop stop-opacity=".125" offset=".5"/>
+   <stop stop-opacity=".04" offset=".75"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4614" x1="272.67" x2="280.67" y1="238.35" y2="238.35" gradientTransform="matrix(2.5 0 0 1 -461.68 244.01)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient7308"/>

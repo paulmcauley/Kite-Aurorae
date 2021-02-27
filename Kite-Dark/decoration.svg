@@ -30,20 +30,22 @@
       }
       .ColorScheme-ButtonFocus{
         color:#2B74C7;
-      }</style>
+      }</style>  
   <linearGradient id="linearGradient3918">
-   <stop stop-color="#ffffff" stop-opacity="0" offset="0"/>
-   <stop stop-color="#ffffff" stop-opacity="0" offset=".14"/>
-   <stop stop-color="#ffffff" stop-opacity=".12549" offset=".14"/>
-   <stop stop-color="#ffffff" stop-opacity=".062745" offset=".5"/>
-   <stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset=".14"/>
+   <stop stop-color="#fff" stop-opacity=".25" offset=".14"/>
+   <stop stop-color="#fff" stop-opacity=".10" offset=".5"/>
+   <stop stop-color="#fff" stop-opacity=".04" offset=".75"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient7308">
-   <stop stop-color="#ffffff" stop-opacity="0" offset="0"/>
-   <stop stop-color="#ffffff" stop-opacity="0" offset=".15"/>
-   <stop stop-color="#ffffff" stop-opacity=".12549" offset=".15"/>
-   <stop stop-color="#ffffff" stop-opacity=".062745" offset=".5"/>
-   <stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset=".15"/>
+   <stop stop-color="#fff" stop-opacity=".25" offset=".15"/>
+   <stop stop-color="#fff" stop-opacity=".10" offset=".5"/>
+   <stop stop-color="#fff" stop-opacity=".04" offset=".75"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4614" x1="272.67" x2="280.67" y1="238.35" y2="238.35" gradientTransform="matrix(2.5 0 0 1 -461.68 244.01)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient7308"/>
   <linearGradient id="linearGradient4616" x1="268.3" x2="276.72" y1="238.35" y2="238.35" gradientTransform="matrix(2.3757 0 0 1 -105.04 -408.35)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient7308"/>
